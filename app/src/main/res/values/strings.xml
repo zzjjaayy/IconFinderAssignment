@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IconFinder</string>
+    <string name="search">Search Icons</string>
+    <string name="error_message">Could not gather categories and icon sets!</string>
+    <string name="load_error_message">Icons could not be loaded!</string>
+
+<!--    Permissions -->
+    <string name="request_permission_message">We need the <b><i>Storage</i></b> permission to manage your Downloads!</string>
+    <string name="settings">Settings</string>
+    <string name="steps_to_enable_perm">Click Settings and go to \'App Permissions\' and allow the \'Storage\' permission</string>
+    <string name="perm_steps_dialog_title">Unable to request Permission!</string>
+    <string name="permission_missing_message">This application cannot work without Storage Permission.</string>
+</resources>
